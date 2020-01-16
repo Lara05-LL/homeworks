@@ -10,3 +10,6 @@
 * Dims [64x64] pixels
 * Present the back story next meeting using Microsoft PowerPoint
 * Be prepared for your work criticisms after your presentation
+
+### Schedule
+* January 27 & 30, 2020 in random order.
